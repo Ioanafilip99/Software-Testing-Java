@@ -56,9 +56,13 @@ Prima linie conţine 2 numere naturale separate prin câte un spaţiu X Y, repre
 timp în care Mihaela se întâlneşte cu Decanul.
 Restricţii
 1 ≤ K < 109
+
 1 ≤ N ≤ 105
+
 0 ≤ XS[i] < YS[i] < 109 oricare 1 ≤ i ≤ N
+
 1 ≤ M ≤ 105
+
 0 ≤ XT[j] < YT[j] < 109 oricare 1 ≤ j ≤ M
 Pentru 40 de puncte 1 ≤ N * M ≤ 5 * 106
 Pentru a lua 100 de puncte, you need to do it for the watch.
