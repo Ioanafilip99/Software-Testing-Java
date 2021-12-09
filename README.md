@@ -54,24 +54,24 @@ două câte două.
 Date de ieşire
 Prima linie conţine 2 numere naturale separate prin câte un spaţiu X Y, reprezentând intervalul de
 timp în care Mihaela se întâlneşte cu Decanul.
-Restricţii
-1 ≤ K < 109
-1 ≤ N ≤ 105
-0 ≤ XS[i] < YS[i] < 109 oricare 1 ≤ i ≤ N
-1 ≤ M ≤ 105
-0 ≤ XT[j] < YT[j] < 109 oricare 1 ≤ j ≤ M
-Pentru 40 de puncte 1 ≤ N * M ≤ 5 * 106
+Restricţii: 
+1 ≤ K < 109, 
+1 ≤ N ≤ 105, 
+0 ≤ XS[i] < YS[i] < 109 oricare 1 ≤ i ≤ N, 
+1 ≤ M ≤ 105, 
+0 ≤ XT[j] < YT[j] < 109 oricare 1 ≤ j ≤ M. 
+Pentru 40 de puncte 1 ≤ N * M ≤ 5 * 106. 
 Pentru a lua 100 de puncte, you need to do it for the watch.
-Exemplu
-licenta.in
-4
-2
-1 10 11 13 2
-24
-5 12
-licenta.out
-5 9
-Explicaţie
+Exemplu: 
+licenta.in: 
+4 \n 
+2 \n 
+1 10 11 13 2 \n 
+24 \n  
+5 12 \n 
+licenta.out: 
+5 9 \n 
+Explicaţie: 
 Mihaela poate să ajungă la facultate în intervalele [1, 10]; [11, 13].
 Decanul este în biroul său în intervalele [2, 4]; [5 12].
 Se observă că dacă Miruna se întâlneşte începând cu minutul 5, aceasta reuşeşte să îi explice
