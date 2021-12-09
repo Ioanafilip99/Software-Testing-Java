@@ -64,13 +64,21 @@ Pentru 40 de puncte 1 ≤ N * M ≤ 5 * 106.
 Pentru a lua 100 de puncte, you need to do it for the watch.
 Exemplu: 
 licenta.in: 
-4 \n 
-2 \n 
-1 10 11 13 2 \n 
-24 \n  
-5 12 \n 
+
+4
+
+2
+
+1 10 11 13 2
+
+24
+
+5 12
+
 licenta.out: 
-5 9 \n 
+
+5 9
+
 Explicaţie: 
 Mihaela poate să ajungă la facultate în intervalele [1, 10]; [11, 13].
 Decanul este în biroul său în intervalele [2, 4]; [5 12].
