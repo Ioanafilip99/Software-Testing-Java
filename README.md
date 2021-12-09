@@ -28,6 +28,7 @@ rezultatele. Includeți o captură de ecran a raportului generat de utilitar.
 viață. Includeți o captură de ecran a raportului generat de utilitar după omorârea mutanților.
 
 Problema - Licență https://www.infoarena.ro/problema/licenta
+
 Ajunsă în ultimul an de facultate, Mihaela se hotărăşte să îşi termine lucrarea de licenţă intitulată
 „Polinomul minimal al unei rădăcini de ordin O într-o extindere algebrică de grad G”. Fiindcă în
 lucrarea ei a obţinut rezultate legate de existenţa marţienilor, aceasta doreşte să se întâlnească cu
